@@ -20,4 +20,4 @@ $ bun dev
 
 ## Cloning / Forking
 
-Please remove all of my personal information (identity, images...).
+Please remove all of my personal information (identity, images...) if present.
